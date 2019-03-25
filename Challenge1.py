@@ -1,2 +1,2 @@
-print ('Hello Word!')
+print ('Hello, Word!')
 x=input()
