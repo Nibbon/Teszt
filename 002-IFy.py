@@ -4,6 +4,6 @@ while num<=1 or num>=100:
     num = int(input())
     continue    
 if (num%2==1) or (num%2==0 and 6<= num<=20):
-    print ("weird")
+    print ("Weird")
 elif num%2==0 and (2<=num<=5 or num>20):
     print ("Not Weird")
