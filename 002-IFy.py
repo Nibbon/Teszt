@@ -1,5 +1,5 @@
 num = int(input())
-while num<=1 or num>=100:
+while num<1 or num>100:
     print ("Nem ám pamutzoknyi!")
     num = int(input())
     continue    
